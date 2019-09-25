@@ -1,0 +1,8 @@
+Christian Ford
+cmf94
+Project 1
+Approach
+
+Uses a DLB for the dictionary (loaded in through a file scanner), and another
+to hold the user's history of typed words.  Adds words used by the user to 
+the user_history.txt file at the same time as adding the word to the user_history dlb.
